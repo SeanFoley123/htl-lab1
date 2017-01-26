@@ -5,7 +5,7 @@ This is a [Flask](http://flask.pocoo.org) server that implements a minimal web-b
 
 ## Screenshot
 
-![](./images/course-catalog.png)
+![](./images/course_catalog.png)
 
 ## Requirements
 
