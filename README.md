@@ -1,14 +1,12 @@
-# HtL Lab 1
+# HtL Lab 1, Sean Foley's edits
 
 This is a [Flask](http://flask.pocoo.org) server that implements a minimal web-based interface to the Olin College
-2016-2017 course catalog. The course data is scraped from the <olin.edu> web site.
+2016-2017 course catalog. The course data is scraped from the <olin.edu> web site. This is Sean Foley's improved version of the implementation at <https://github.com/olinlibrary/htl-lab1>, featuring Bootstrap formatting and a jerry-rigged search bar.
 
 
 ## Requirements
 
 Python 3 is required to run this program.
-You can test whether Python 3 is installed on your laptop by running `python3` in the bash (shell) command line.
-
 
 ## Setup
 
@@ -49,7 +47,7 @@ could break it with no warning.
 
 ## Contributors
 
-Written by Oliver Steele <oliver.steele@olin.edu>.
+Written by Oliver Steele <oliver.steele@olin.edu> and Sean Foley.
 
 
 ## License
