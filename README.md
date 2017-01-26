@@ -1,7 +1,7 @@
 # HtL Lab 1, Sean Foley's edits
 
 This is a [Flask](http://flask.pocoo.org) server that implements a minimal web-based interface to the Olin College
-2016-2017 course catalog. The course data is scraped from the <olin.edu> web site. This is Sean Foley's improved version of the implementation at <https://github.com/olinlibrary/htl-lab1>, featuring Bootstrap formatting and a jerry-rigged search bar.
+2016-2017 course catalog. The course data is scraped from the <olin.edu> web site. This is Sean Foley's improved version of the implementation at <https://github.com/olinlibrary/htl-lab1>, featuring Bootstrap formatting and a jerry-rigged search bar. Sources beyond the Hacking the Library faculty include Stackexchange, W3Schools, and the Pandas, Bootstrap, and Flask documentation.
 
 
 ## Requirements
